@@ -1,0 +1,20 @@
+{
+  "name": "url-shortening-api-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Shortly URL shortening API coding challenge](preview.jpg)",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "body-parser": "^2.3.0",
+    "cookie-session": "^2.1.1",
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "pg": "^8.23.0"
+  }
+}
